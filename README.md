@@ -1,4 +1,6 @@
 ## Hi there 👋
+Enjoying the view from Cory roof.
+<img width="2016" height="1134" alt="image" src="https://github.com/user-attachments/assets/0db160c2-206f-4c4f-b762-b7c63a33073a" />
 
 <!--
 **NotYiLongMa/NotYiLongMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
